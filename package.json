@@ -1,14 +1,14 @@
 {
-  "name": "nc",
+  "name": "ns",
   "version": "1.0.0",
   "description": "courses",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-	"build":"loppo --site \" NC \" --theme hym"
+	"build":"loppo --site \" NS \" --theme hym"
   },
   "keywords": [
-    "nc"
+    "ns"
   ],
   "author": "ming",
   "license": "ISC",
