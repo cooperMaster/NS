@@ -1,0 +1,19 @@
+{
+  "name": "nc",
+  "version": "1.0.0",
+  "description": "courses",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"build":"loppo --site \" NC \" --theme hym"
+  },
+  "keywords": [
+    "nc"
+  ],
+  "author": "ming",
+  "license": "ISC",
+  "dependencies": {
+    "loppo": "latest",
+    "loppo-theme-hym": "latest"
+  }
+}
